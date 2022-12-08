@@ -1,3 +1,6 @@
 Some text for header
-Changes from <mmain> -- new changes from <mmain>
+Changes from <mmain>
+Changes from <fix_100>
+
+-- new changes from <mmain>
 
